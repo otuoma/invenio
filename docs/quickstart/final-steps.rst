@@ -76,7 +76,7 @@ permissions in Invenio.
 
 Testing
 ^^^^^^^
-Tests are available in the `tests` folder. You can add your own tests and then run
+Tests are available in the `tests` folder. You can add your own tests and then
 run linting checks and tests using the script ``run-tests.sh``:
 
 .. code-block:: console
